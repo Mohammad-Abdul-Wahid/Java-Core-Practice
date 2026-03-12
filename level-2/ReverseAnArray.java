@@ -7,6 +7,9 @@ public class ReverseAnArray{
       rev[j]=arr[i];
       j++;
     }
+    for(int i:rev){
+      System.out.println(i);
+    }
 
   }
 }
