@@ -10,14 +10,28 @@ public class Student {
     this.age = age;
   }
 
-  public String getName(String name){
+  public String getName(String name) {
     return this.name;
   }
-  public int getRollNumber(String name){
+
+  public int getRollNumber(String name) {
     return this.roll_number;
   }
-  public int getAgel(String name){
+
+  public int getAge(String name) {
     return this.age;
+  }
+
+  public void settName(String name) {
+    this.name = name;
+  }
+
+  public void setRollNumber(int roll_number) {
+    this.roll_number = roll_number;
+  }
+
+  public void setAge(int age) {
+    this.age = age;
   }
 
   public static void main(String[] args) {
