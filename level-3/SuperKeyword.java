@@ -1,4 +1,5 @@
 public class SuperKeyword {
+
   public SuperKeyword(){
     System.out.println("Inside default constructor");
   }
@@ -9,7 +10,7 @@ public class SuperKeyword {
   }
 
   public static void main(String[] args) {
-    
+    SuperKeyword sk=new SuperKeyword(1);
   }
 
   }
