@@ -3,6 +3,9 @@ class Animal{
     System.out.println("Inside Animal class constructor");
   }
 }
+class Dog{
+  
+}
 
 
 public class SuperKeyword {
