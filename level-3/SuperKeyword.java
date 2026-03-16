@@ -4,7 +4,7 @@ class Animal{
   }
 }
 class Dog{
-  public dog(){
+  public Dog(){
     System.out.println("Inside dog class constructor");
   }
 }
