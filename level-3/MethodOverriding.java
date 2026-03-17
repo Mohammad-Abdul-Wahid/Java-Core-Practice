@@ -12,12 +12,7 @@ class Dog extends Animal {
   }
 }
 
-class Cat extends Animal {
-  @Override
-  public void sound() {
-    System.out.println("Cat makes a sound meow!");
-  }
-}
+
 
 public class MethodOverriding {
   public static void main(String[] args) {
