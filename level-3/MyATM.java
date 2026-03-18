@@ -1,3 +1,4 @@
+//Example of Inheritance and method over-riden
 
 class ATM {
     public void deposit() {
