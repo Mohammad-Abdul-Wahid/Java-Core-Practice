@@ -1,3 +1,4 @@
+//Inheritance
 
 class Plane {
     public void takeoff() {
